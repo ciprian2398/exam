@@ -1,0 +1,2 @@
+IPv6 uses 128-bit 16 byte(s)
+IPv4 uses 32-bit  4  byte(s)
